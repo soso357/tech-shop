@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tech-shop/static/css/main.94d610de.css",
+    "main.js": "/tech-shop/static/js/main.6d157e09.js",
+    "static/media/3.jpg": "/tech-shop/static/media/3.5293431989dbb9e8dcae.jpg",
+    "static/media/4.jpg": "/tech-shop/static/media/4.8b5c584973c503d09f91.jpg",
+    "static/media/1.jpg": "/tech-shop/static/media/1.6e88ec3c43814718efa6.jpg",
+    "static/media/5.jpg": "/tech-shop/static/media/5.917a14b23dc6c4da0b9d.jpg",
+    "static/media/6.jpg": "/tech-shop/static/media/6.2ec9f97fc680f7528ba1.jpg",
+    "static/media/2.jpg": "/tech-shop/static/media/2.24ab24d5b92609203fa8.jpg",
+    "index.html": "/tech-shop/index.html",
+    "main.94d610de.css.map": "/tech-shop/static/css/main.94d610de.css.map",
+    "main.6d157e09.js.map": "/tech-shop/static/js/main.6d157e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d610de.css",
+    "static/js/main.6d157e09.js"
+  ]
+}
