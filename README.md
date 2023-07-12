@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+click the link to open website: https://soso357.github.io/tech-shop/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
